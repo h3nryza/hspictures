@@ -2,8 +2,8 @@
 title: PHOTORAMA
 email: ""
 description: "Henry Stock Photography"
-url: "https://hspictures.github.io"
-baseurl: "/"
+url: "https://h3nryza.github.io/"
+baseurl: "/hspictures"
 #facebook_username: ""
 twitter_username: "h3nryza"
 instagram_username: "h3nryza"
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://hspictures.gihub.io/photorama/gallery/"  
-  - JOURNAL: "https://hspictures.github.io/photorama/journal/"
-  - ABOUT: "https://hspictures.github.io/photorama/about/"
+  - GALLERY: "https://h3nryza.gihub.io/hspictures/gallery/"  
+  - JOURNAL: "https://h3nryza.github.io/hspictures/journal/"
+  - ABOUT: "https://h3nryza.github.io/hspictures/about/"
 
 # All translation keys
 translations:
