@@ -1,5 +1,5 @@
 # Site settings
-title: PHOTORAMA
+title: Henry Stock Photography
 email: ""
 description: "Henry Stock Photography"
 url: "https://h3nryza.github.io/"
@@ -33,7 +33,7 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://h3nryza.gihub.io/hspictures/gallery/"  
+  - GALLERY: "https://h3nryza.github.io/hspictures/gallery/"  
   - JOURNAL: "https://h3nryza.github.io/hspictures/journal/"
   - ABOUT: "https://h3nryza.github.io/hspictures/about/"
 
